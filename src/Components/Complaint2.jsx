@@ -24,9 +24,9 @@ const Complaint2 = () => {
         </h2>
 
         <div style={{ overflowX: 'auto' }}
-             role="region"
-             aria-labelledby="cb-cap1"
-             tabIndex="0">
+          role="region"
+          aria-labelledby="cb-cap1"
+          tabIndex="0">
           <table style={{
             width: '100%',
             minWidth: '580px',
@@ -393,9 +393,9 @@ const Complaint2 = () => {
         </h3>
 
         <div style={{ overflowX: 'auto' }}
-             role="region"
-             aria-labelledby="cb-cap2"
-             tabIndex="0">
+          role="region"
+          aria-labelledby="cb-cap2"
+          tabIndex="0">
           <table style={{
             width: '100%',
             minWidth: '580px',
@@ -512,9 +512,9 @@ const Complaint2 = () => {
                 <th scope="row" style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4', backgroundColor: '#e8eef7', color: '#003366', fontWeight: '600' }}>3</th>
                 <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>May, 2026</td>
                 <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>0</td>
+                <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>1</td>
                 <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>0</td>
-                <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>0</td>
-                <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>0</td>
+                <td style={{ border: '1px solid #767676', padding: '10px 12px', textAlign: 'center', fontSize: '0.9em', lineHeight: '1.4' }}>1</td>
               </tr>
               <tr style={{ backgroundColor: '#f5f8ff' }}>
                 <th scope="row" style={{
@@ -627,9 +627,9 @@ const Complaint2 = () => {
         </h3>
 
         <div style={{ overflowX: 'auto' }}
-             role="region"
-             aria-labelledby="cb-cap3"
-             tabIndex="0">
+          role="region"
+          aria-labelledby="cb-cap3"
+          tabIndex="0">
           <table style={{
             width: '100%',
             minWidth: '580px',
